@@ -39,7 +39,7 @@ escritório. Antes de publicar oficialmente, procure e substitua:
 | Telefone / WhatsApp | `(11) 00000-1234` | Header, seção Contato, rodapé, botão flutuante |
 | E-mail | `contato@dijuadvocacia.adv.br` | Seção Contato, rodapé |
 | Endereço | Alameda das Nações — Centro, Diadema/SP | Seção Contato, rodapé |
-| Nomes da equipe | Diego Barreto Nogueira, Juliana Prado Cardoso, Rafael Souza Martins | Seção Sobre e Equipe |
+| Nomes da equipe | Jota Jota, Penélope Petter, Assuero Radassa | Seção Sobre e Equipe |
 | Números de OAB | `OAB/SP nº 298.455` (e demais) | Seção Equipe |
 | Depoimentos | R. Almeida, M. Bezerra, C. Duarte | Seção Depoimentos |
 
