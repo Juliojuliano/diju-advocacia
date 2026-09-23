@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="heroArtTitle">
+  <title id="heroArtTitle">Ilustração de uma balança da justiça</title>
+  <defs>
+    <radialGradient id="heroGlow" cx="50%" cy="38%" r="60%">
+      <stop offset="0%" stop-color="#b8944a" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#b8944a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="210" cy="210" r="205" fill="url(#heroGlow)"/>
+  <circle cx="210" cy="210" r="176" fill="none" stroke="#b8944a" stroke-width="1" opacity="0.35"/>
+  <circle cx="210" cy="210" r="150" fill="none" stroke="#b8944a" stroke-width="0.6" opacity="0.22"/>
+
+  <g fill="none" stroke="#e9dfc4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- coluna central -->
+    <line x1="210" y1="96" x2="210" y2="300"/>
+    <!-- base -->
+    <line x1="168" y1="300" x2="252" y2="300"/>
+    <line x1="180" y1="312" x2="240" y2="312"/>
+    <!-- travessão -->
+    <line x1="122" y1="128" x2="298" y2="128"/>
+    <!-- fio esquerdo -->
+    <line x1="122" y1="128" x2="90" y2="186"/>
+    <line x1="122" y1="128" x2="154" y2="186"/>
+    <!-- fio direito -->
+    <line x1="298" y1="128" x2="266" y2="186"/>
+    <line x1="298" y1="128" x2="330" y2="186"/>
+  </g>
+
+  <g fill="none" stroke="#b8944a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- prato esquerdo -->
+    <path d="M82 186 Q122 214 162 186"/>
+    <!-- prato direito -->
+    <path d="M258 186 Q298 214 338 186"/>
+  </g>
+
+  <circle cx="210" cy="128" r="6" fill="#b8944a"/>
+  <circle cx="210" cy="96" r="5" fill="none" stroke="#e9dfc4" stroke-width="2"/>
+</svg>

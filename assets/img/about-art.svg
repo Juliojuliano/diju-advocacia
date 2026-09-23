@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360" role="img" aria-labelledby="aboutArtTitle">
+  <title id="aboutArtTitle">Ilustração de uma fachada com colunas</title>
+
+  <circle cx="230" cy="180" r="172" fill="#f1e6cd" opacity="0.6"/>
+
+  <g fill="none" stroke="#0c1c3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- frontão -->
+    <path d="M120 118 L230 66 L340 118"/>
+    <line x1="108" y1="118" x2="352" y2="118"/>
+    <line x1="108" y1="130" x2="352" y2="130"/>
+
+    <!-- colunas -->
+    <line x1="132" y1="130" x2="132" y2="262"/>
+    <line x1="178" y1="130" x2="178" y2="262"/>
+    <line x1="224" y1="130" x2="224" y2="262"/>
+    <line x1="270" y1="130" x2="270" y2="262"/>
+    <line x1="316" y1="130" x2="316" y2="262"/>
+
+    <!-- capitéis -->
+    <line x1="124" y1="130" x2="140" y2="130"/>
+    <line x1="170" y1="130" x2="186" y2="130"/>
+    <line x1="216" y1="130" x2="232" y2="130"/>
+    <line x1="262" y1="130" x2="278" y2="130"/>
+    <line x1="308" y1="130" x2="324" y2="130"/>
+
+    <!-- base / escada -->
+    <line x1="96" y1="262" x2="364" y2="262"/>
+    <line x1="86" y1="276" x2="374" y2="276"/>
+    <line x1="76" y1="290" x2="384" y2="290"/>
+  </g>
+
+  <g stroke="#b8944a" stroke-width="2" stroke-linecap="round">
+    <line x1="230" y1="66" x2="230" y2="46"/>
+    <circle cx="230" cy="38" r="6" fill="#b8944a" stroke="none"/>
+  </g>
+</svg>
