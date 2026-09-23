@@ -40,7 +40,7 @@ escritório. Antes de publicar oficialmente, procure e substitua:
 | E-mail | `contato@dijuadvocacia.adv.br` | Seção Contato, rodapé |
 | Endereço | Alameda das Nações — Centro, Diadema/SP | Seção Contato, rodapé |
 | Nomes da equipe | Jota Jota, Penélope Petter, Assuero Radassa | Seção Sobre e Equipe |
-| Números de OAB | `OAB/SP nº 298.455` (e demais) | Seção Equipe |
+| Números de OAB | `99900`, `334455`, `888899` | Seção Equipe |
 | Depoimentos | R. Almeida, M. Bezerra, C. Duarte | Seção Depoimentos |
 
 Busque por esses termos em `index.html` — todos aparecem em texto puro,
